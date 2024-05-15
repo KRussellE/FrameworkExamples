@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkExamples.Net482", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkExamples.NetStandard2", "FrameworkExamples.NetStandard2\FrameworkExamples.NetStandard2.csproj", "{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkExamples.Net8", "FrameworkExamples.Net8\FrameworkExamples.Net8.csproj", "{7DB8319A-DF02-4C0D-A130-CD0BBBBC59DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB8319A-DF02-4C0D-A130-CD0BBBBC59DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB8319A-DF02-4C0D-A130-CD0BBBBC59DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB8319A-DF02-4C0D-A130-CD0BBBBC59DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB8319A-DF02-4C0D-A130-CD0BBBBC59DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
