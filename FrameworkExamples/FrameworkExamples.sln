@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkExamples.Net482", "FrameworkExamples.Net482\FrameworkExamples.Net482.csproj", "{5BCE588A-7C0A-4E98-A11D-0E1F094E8E96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkExamples.NetStandard2", "FrameworkExamples.NetStandard2\FrameworkExamples.NetStandard2.csproj", "{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5BCE588A-7C0A-4E98-A11D-0E1F094E8E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BCE588A-7C0A-4E98-A11D-0E1F094E8E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BCE588A-7C0A-4E98-A11D-0E1F094E8E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7905ED3-F9E8-4E77-A0F0-65C0351D9C9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
