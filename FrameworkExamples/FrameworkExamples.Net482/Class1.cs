@@ -8,5 +8,6 @@ namespace FrameworkExamples.Net482
 {
     public class Class1
     {
+
     }
 }
