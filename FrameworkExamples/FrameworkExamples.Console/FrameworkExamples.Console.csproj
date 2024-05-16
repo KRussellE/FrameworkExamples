@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FrameworkExamples.Net8\Net8.Infrastucture.csproj" />
+    <ProjectReference Include="..\FrameworkExamples.NetStandard2\FrameworkExamples.NetStandard2.csproj" />
   </ItemGroup>
 
 </Project>
